@@ -7,4 +7,4 @@ app.get('/', (req, res)=> {
 
 app.listen(port, () => {
     console.log('Aplicacion escuchando en el puerto ${port}');
-})
+});
